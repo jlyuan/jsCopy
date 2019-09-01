@@ -1,0 +1,11 @@
+{
+  "name": "jsCopy",
+  "version": "1.0.0",
+  "description": "JS shallow and deep copy operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jlyuan",
+  "license": "ISC"
+}
