@@ -1,5 +1,5 @@
 {
-  "name": "jsCopy",
+  "name": "javascript-copy",
   "version": "1.0.0",
   "description": "JS shallow and deep copy operation",
   "main": "index.js",
