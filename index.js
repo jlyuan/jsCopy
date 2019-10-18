@@ -1,3 +1,5 @@
+// dev1
+
 var copy = {
     // 深拷贝
     deepCopy: function (obj1) {
